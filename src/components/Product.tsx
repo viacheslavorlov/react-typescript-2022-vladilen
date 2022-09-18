@@ -39,7 +39,7 @@ const Product = ({product}: ProductProps) => {
 
 
                 {details ? <p>{description}</p> : null}
-                <p style={{fontWeight: 'bold'}}>Rating: {rating.rate}</p>
+                <p style={{fontWeight: 'bold'}}>{rating?.rate ? 'Rating: ' + rating.rate: null}</p>
         </div>
         </>
     );

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e66c611b-fd88-4e33-af1f-17b1695c9e79" name="Changes" comment="react-typescript -VLADILEN 1h 12min">
-      <change afterPath="$PROJECT_DIR$/src/components/ModalContext.tsx" afterDir="false" />
+    <list default="true" id="e66c611b-fd88-4e33-af1f-17b1695c9e79" name="Changes" comment="react-typescript - VLADILEN 1h 35min &#10;нужно прочитать про события в Typescript и типирование">
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/About.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/ProductsPage.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
@@ -49,7 +51,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "/home/viacheslav/WebstormProjects/react-typescript-2022-vladilen/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -92,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663359526105</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="react-typescript - VLADILEN 1h 35min &#10;нужно прочитать про события в Typescript и типирование">
+      <created>1663586025860</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663586025860</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="react-typescript -VLADILEN 1h 12min" />
-    <option name="LAST_COMMIT_MESSAGE" value="react-typescript -VLADILEN 1h 12min" />
+    <MESSAGE value="react-typescript - VLADILEN 1h 35min &#10;нужно прочитать про события в Typescript и типирование" />
+    <option name="LAST_COMMIT_MESSAGE" value="react-typescript - VLADILEN 1h 35min &#10;нужно прочитать про события в Typescript и типирование" />
   </component>
 </project>
